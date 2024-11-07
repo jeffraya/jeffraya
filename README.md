@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a focus o
 ## 🔧 Technologies & Tools
 
 - **Languages**: JavaScript, TypeScript, Dart
-- **Frameworks**: Flutter, SvelteKit, Nest.js
+- **Frameworks**: SvelteKit, Nest.js, Flutter
 - **Databases**: PostgreSQL
 - **Tools**: Git, VS Code, Docker
 - **Cloud**: Google Cloud Platform
@@ -13,12 +13,14 @@ Welcome to my GitHub profile! I'm a passionate software developer with a focus o
 
 ## 🚀 Current Focus
 
-I'm currently focused on building full-stack applications, contributing to open-source projects, and exploring new technologies like **Machine Learning** and **Blockchain**. My goal is to write clean, maintainable code that scales well and can make a real impact.
+I'm currently focused on building full-stack applications, contributing to open-source projects, and exploring new technologies. My goal is to write clean, maintainable code that scales well and can make a real impact.
 
 ## 🛠️ My Projects
 
 Some of the projects I’m working on or have contributed to:
 
+- **[Raya - Digital Bank iOS](https://apps.apple.com/id/app/raya-digital-bank/id1627393834)** – Aplikasi Bank Digital Raya untuk platform iOS.
+- **[Raya - Digital Bank Android](https://play.google.com/store/apps/details?id=id.co.bankraya.apps&hl=id&pli=1)** – Aplikasi Bank Digital Raya untuk platform Android.
 - **[Pinang Maksima - Dashboard RM](https://dashboard-rm.pinang-maksima.pre-prod.bankraya.co.id)** – Web Apps untuk Pemrakarsa Kredit.
 - **[Pinang Maksima - Dashboard Verif](https://dashboard-verif.pinang-maksima.pre-prod.bankraya.co.id)** – Web Apps untuk OPK, Reviewer dan Pemutus Kredit.
 
