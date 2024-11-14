@@ -4,10 +4,10 @@ Welcome to my GitHub profile! I'm a passionate software developer with a focus o
 
 ## 🔧 Technologies & Tools
 
-- **Languages**: JavaScript, TypeScript, Dart
+- **Languages**: JavaScript, TypeScript, Dart, Python, Java, Swift, Go, Clojure
 - **Frameworks**: SvelteKit, Nest.js, Flutter
 - **Databases**: PostgreSQL
-- **Tools**: Git, VS Code, Docker
+- **Tools**: Git, VS Code, Zed Code Editor, Docker
 - **Cloud**: Google Cloud Platform
 - **Others**: RESTful APIs, Test-Driven Development (TDD)
 
@@ -28,7 +28,8 @@ Feel free to explore my repositories to see what I'm currently working on!
 
 ## 🌱 I’m currently learning:
 
-- **DevOps**: Deep diving into Kubernetes, Docker, and infrastructure as code.
+- Exploring tools like [e.g., Docker, Kubernetes]
+- Web3 & Blockchain Development
 
 ## 📬 How to reach me:
 
