@@ -4,12 +4,12 @@ Welcome to my GitHub profile! I'm a passionate software developer with a focus o
 
 ## 🔧 Technologies & Tools
 
-- **Languages**: JavaScript, TypeScript, Dart, Python, Java, Swift, Go, Clojure
-- **Frameworks**: SvelteKit, Nest.js, Flutter
-- **Databases**: PostgreSQL
+- **Languages**: JavaScript, TypeScript, Dart, Python, Java, Swift, Go, Clojure, C#
+- **Frameworks**: SvelteKit, Nest.js, Flutter, .NET
+- **Databases**: SQL
 - **Tools**: Git, VS Code, Docker
-- **Cloud**: Google Cloud Platform, Oracle Cloud Infrastructure
-- **Others**: RESTful APIs, Test-Driven Development (TDD)
+- **Cloud**: Google Cloud Platform
+- **Others**: Domain-Driven Development (DDD)
 
 ## 🚀 Current Focus
 
@@ -32,7 +32,6 @@ Feel free to explore my repositories to see what I'm currently working on!
 
 ## 🌱 I’m currently learning:
 
-- Exploring tools like [e.g., Docker, Kubernetes]
 - Web3 & Blockchain Development
 
 ## 📬 How to reach me:
